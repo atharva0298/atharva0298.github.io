@@ -1,0 +1,64 @@
+
+.atharva-headers{
+  text-align:center;
+  
+  
+  background-image:url(assets/Image.jpg);
+  background-repeat:no-repeat;
+}
+
+.atharva-profile{
+  border-radius:50%
+}
+
+.carousel-item {
+ height: 500px;
+    text-align: center;
+}
+
+.item1 {
+  background-color:rgb(121, 119, 141);
+  /height: 100px;/
+}
+
+.item2 {
+  background-color:yellow;
+  /height: 100px;/
+}
+
+.item3 {
+  background-color:blue;
+  /height: 100px;/
+}
+
+#about{
+  background-color: #4287f5;
+  width:400px;
+  height:100%;
+  background-image:
+  font-family:'Times New Roman', Times, serif;
+
+}
+
+#workexp{
+background-color: aqua;
+font-family:'Times New Roman', Times, serif;
+
+}
+
+.links{
+  background-color: #03fc49;
+  text-decoration: underline;
+    text-decoration-color: #bdd934;
+    
+}
+
+.fontsettings{
+  font-size:large;
+  font-style:italic;
+  
+}
+
+.align{
+  text-align:center;
+}
