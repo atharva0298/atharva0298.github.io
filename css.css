@@ -7,6 +7,13 @@
   background-repeat:no-repeat;
 }
 
+
+#button{
+  background-color: blue;
+  
+  border: black;
+  text-align:center;
+}
 .atharva-profile{
   border-radius:50%
 }
